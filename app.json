@@ -1,0 +1,17 @@
+{
+  "name": "purplewhite",
+  "displayName": "purplewhite",
+  "expo": {
+    "name": "purplewhite",
+    "slug": "purplewhite",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
