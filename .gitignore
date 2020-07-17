@@ -39,7 +39,6 @@ yarn-error.log
 # BUCK
 buck-out/
 \.buckd/
-*.keystore
 
 # fastlane
 #
@@ -62,3 +61,4 @@ buck-out/
 .expo/*
 web-build/
 yarn.lock
+*.apk
