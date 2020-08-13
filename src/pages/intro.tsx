@@ -50,7 +50,7 @@ export default class IntroScreen extends React.Component<Props, States> {
           <View
             style={{
               flex: 1,
-              paddingHorizontal: 60,
+              paddingHorizontal: 80,
               flexDirection: "row",
               alignItems: "center",
               justifyContent: "center",
@@ -106,7 +106,6 @@ const styles = StyleSheet.create({
     paddingLeft: 40,
     borderColor: primaryColor,
     borderWidth: 2,
-    textAlign: "center",
     fontWeight: "bold",
     color: primaryColor,
   },
